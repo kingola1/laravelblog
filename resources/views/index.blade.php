@@ -15,8 +15,8 @@
       <link rel="stylesheet" href="{{ asset('assets/css/media-queries.css')}}">
         <link rel="stylesheet" href="{{ asset('assets/css/style_1.css')}}">
       <!-- Favicon and touch icons -->
-      <link rel="shortcut icon" href="images/1.jpg">
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+      <link rel="shortcut icon" href="/images/1.jpg">
+      <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"> -->
       <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
       <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
       <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
